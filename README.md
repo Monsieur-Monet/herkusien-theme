@@ -13,4 +13,4 @@ Place the folder ```herkusien-icons``` in your ```~/.themes``` folder. <br>
 If you can't find the folder just create it.<br>
 
 # Screenshots
-
+![screenshot](https://github.com/Monsieur-Monet/herkusien-theme/blob/main/screenshot-herkusien.png)
